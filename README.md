@@ -36,7 +36,7 @@ I’m a passionate and results-driven **Java Developer** with over **3 years of 
 - 🧾 Enhancing core banking applications for top-tier Canadian financial institutions  
 - 🔐 Implementing OAuth2 and JWT for secure, distributed authentication  
 - 🌐 Building REST APIs and microservices using Spring Boot  
-- 🇺🇸 Supporting a U.S. federal government backend system as a freelance developer
+- Supporting a U.S. federal government backend system as a freelance developer
 
 ---
 
